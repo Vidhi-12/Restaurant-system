@@ -1,0 +1,207 @@
+*{
+padding:0px;
+margin:0px;
+}
+
+.navi{
+width:100%;
+background-color:blue;
+overflow:hidden;
+z-index:999999;
+position:fixed;
+top:0px;
+}
+
+.naviout1{
+width:100%;
+background-color:#714d3d;
+overflow:hidden;
+}
+
+.navi1{
+width:70%;
+background-color:#714d3d;
+margin:auto;
+overflow:hidden;
+position:relative;
+}
+
+.navi1left{
+float:left;
+width:50%;
+background-color:#714d3d;
+overflow:hidden;
+}
+
+.navi1left img{
+width:3.5%;
+float:left;
+margin:0.3% 1% 0% 0%;
+}
+
+.navi1left h4{
+float:left;
+color:white;
+padding:1.2% 0% 1.2% 0%;
+font-family:Arial;
+font-size:.8vw;
+}
+
+.navi1right{
+float:right;
+width:8%;
+background-color:gray;
+margin:0%;
+overflow:hidden;
+}
+
+.navi1right img{
+width:33%;
+float:left;
+margin:0%;
+}
+
+.naviout2{
+width:100%;
+overflow:hidden;
+background-color:white;
+}
+
+.navi2{
+width:70%;
+background-color:aqua;
+margin:auto;
+overflow:hidden;
+position:relative;
+}
+
+.leftnavi{
+width:45%;
+float:left;
+background-color:white;
+overflow:hidden;
+}
+
+.leftnavi img{
+width:10%;
+float:left;
+padding:6.8% 1.5% 6.8% 0%;
+}
+
+.leftnavi h1{
+font-family:Arial;
+font-size:1.7vw;
+padding-top:7%;
+}
+
+.leftnavi h4{
+font-family:Arial;
+font-size:1vw;
+overflow:hidden;
+}
+
+.rightnavi{
+float:left;
+width:55%;
+background-color:#efcdbe;
+overflow:hidden;
+}
+
+.rightnavi ul{
+margin:0;
+width:100%;
+list-style-type: none;
+overflow:hidden;
+background:white;
+padding:8.3% 0% 8.2% 0%;	
+}
+
+.rightnavi ul li{
+float: left;
+padding-left:7.5%;
+}
+
+.rightnavi ul li a{
+display: block;
+color:gray;
+text-decoration: none;
+font-family:Arial;
+font-size:1.1vw;
+font-weight:bold;
+
+}
+
+.rightnavi ul li  a:hover{
+color:gold;
+text-decoration:underline;	
+}
+
+/*----------------------------close navi-------------*/
+
+.header{
+background:#724e3e;
+width:100%;
+margin-top:12%;
+}
+
+.header h1{
+text-align:center;
+font-family:Arial;
+font-size:3vw;
+font-weight:bold;
+padding:5% 0% 5% 0%;
+color:white;
+}
+
+/*----------------------------close header-------------*/
+
+.conout{
+background-color:red;
+width:100%;
+}
+
+.details{
+background-color:#303030;
+width:50%;
+float:left;
+padding-bottom:125px;
+}
+
+.details h2{
+font-family:Arial;
+font-size:2.5vw;
+margin:15% 0% 0% 35%;
+color:white;
+}
+
+.detbox{
+width:50%;
+margin:5% 0% 0% 35%;
+}
+
+.detbox span{
+float:left;
+}
+
+.detheading{
+float:left;
+margin:1% 4% 0% 4%;
+font-size:1.4vw;
+font-family:Arial;
+color:#c8a656;
+}
+
+.detdetails{
+margin:2% 0 0 44%;
+padding:0 0 10px 0;
+font-size:1vw;
+font-family:Arial;
+line-height:1.2;
+color:white;
+}
+
+.map{
+width:50%;
+float:left;
+overflow:hidden;
+}
